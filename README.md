@@ -5,7 +5,9 @@ This project focuses on building a robust data processing pipeline to extract, c
 
 *(Below: The Puget Sound region, a unique geographic area where complex coastal and mountainous terrains drive localized weather phenomena like the Puget Sound Convergence Zone.)*
 
-![Puget Sound Map](images/Puget Sound Boundary Map.jpeg)
+![Puget Sound Map](images/Puget%20Sound%20Boundary%20Map.jpeg)
+
+
 
 
 ## 🛠️ Key Engineering Features
